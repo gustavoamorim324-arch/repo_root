@@ -1,13 +1,14 @@
-[
-    {
-        "nome": "Agatha Christie Death on the Nile",
+{
+  "translation": {
+    "Agatha Christie Death on the Nile": {
+      "url": "https://github.com/gustavoamorim324-arch/repo_root/raw/refs/heads/main/Agatha%20Christie%20Death%20on%20the%20Nile%20.zip",
+      "info": {
         "id_jogo": "0100C22021B48000",
         "versao_jogo": "1.1.8",
         "tamanho": "678 kb",
-        "url": "https://github.com/gustavoamorim324-arch/repo_root/raw/refs/heads/main/Agatha%20Christie%20Death%20on%20the%20Nile%20.zip",
-        "site": "",
         "autor": "M.I.L. TRADUÇÕES",
         "descricao": "BOM JOGO!"
+      }
     }
-
-]
+  }
+}
